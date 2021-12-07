@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=PT+Serif&family=Pacifico&display=swap');
+
+h1 {
+    font-family: 'PT Serif', serif;
+    background-color: aliceblue;
+}
+
+.pOne {
+    font-family: 'Pacifico', cursive;
+    background-color: bisque;
+}
+
+.pTwo {
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: darkgrey;
+}
+
